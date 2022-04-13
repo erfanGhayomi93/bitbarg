@@ -1,0 +1,29 @@
+@font-face {
+  src: url("/media/iransans/IRANSansWeb.eot");
+  src: url("/media/iransans/IRANSansWeb.Web");
+  src: url("/media/iransans/IRANSansWeb.woff");
+  src: url("/media/iransans/IRANSansWeb.woff2");
+
+  font-family: "iransans";
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "iransans" !important;
+}
+
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p{
+  margin: 0;
+}
